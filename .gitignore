@@ -1,0 +1,16 @@
+node_modules
+*.db
+apidoc
+jsdoc
+*.lcov
+.nyc_output
+.env
+build
+static
+gladys-backups
+qemu-*
+coverage
+
+# VSCode
+.vscode
+.tmp

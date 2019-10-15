@@ -1,0 +1,26 @@
+[
+  {
+    "key": "zwave",
+    "name": "Z-Wave",
+    "description": "Control your Z-Wave devices.",
+    "img": "/assets/integrations/cover/zwave.jpg"
+  },
+  {
+    "key": "rtsp-camera",
+    "name": "RTSP Camera",
+    "description": "Display your camera in Gladys.",
+    "img": "/assets/integrations/cover/rtsp-camera.jpg"
+  },
+  {
+    "key": "xiaomi",
+    "name": "Xiaomi Home",
+    "description": "Display Xiaomi home devices.",
+    "img": "/assets/integrations/cover/xiaomi.jpg"
+  },
+  {
+    "key": "mqtt",
+    "name": "MQTT",
+    "description": "Connect to MQTT server.",
+    "img": "/assets/integrations/cover/mqtt.jpg"
+  }
+]
