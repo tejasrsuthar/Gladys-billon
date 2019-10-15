@@ -22,7 +22,7 @@
   },
   "signup": {
     "welcome": {
-      "title": "Welcome in Gladys 🙋",
+      "title": "Welcome in Your mom 🙋",
       "introSentence": "First, thank you for choosing me. I'm Gladys, a privacy-friendly home assistant for your house.",
       "introTimeToCreateAccount": "It's time to create a local account for your Gladys setup.",
       "introDontWorryLocal": "Don't worry: Gladys is fully self-hosted, and all the informations you'll enter are just saved in the local database of Gladys.",
